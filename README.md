@@ -1,1 +1,1 @@
-# KANEX_SRMHacakathon
+# KANEX_SRMHackathon
